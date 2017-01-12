@@ -1,0 +1,5 @@
+- Splunk_Settings:
+  - SplunkServer   : localhost
+  - SplunkPort     : 8089
+  - SplunkAccount  : admin
+  - SplunkPassword : splunkrules
